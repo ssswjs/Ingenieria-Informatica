@@ -22,29 +22,7 @@
 
 ## Cómo contribuir a este repositorio
 
-### Realizar cambios a los archivos
-
-Los cambios que puedes realizar son adiciones o eliminaciones tanto de ficheros como de sus elementos. Para ello puedes pulsar el botón de editar de un archivo y añadir o eliminar las líneas que creas convenientes. Cuando estés seguro de que todos tus cambios son correctos comienza el proceso de aprobación de los cambios, formalmente denominados *pull request*.
-
-**Pasos para realizar una Pull Request excelente:**
-- Escribe un título sencillo en la sección *Update* que resuma lo máximo posible los cambios que has realizado y que contenga el código de la asignatura
-  - `[PDOO] Corrección errata T3_S4 párrafo 3`
-  - `[FP] Adición de ejemplo T6_S1 apartado 1` 
-- Escribe una descripción lo más elaborada que puedas (dentro de unos límites razonables) explicando los motivos por los que estás realizando dichos cambios
-  - `La forma en la que se expresaba la relación entre ambos elementos podía dar lugar a conclusiones, por lo que he cambiado la sintaxis que cada elemento se refiera al correspondiente en su posición respectivamente.`
-  - `Ha usado un break en un bucle y merece arder en el infierno.`
-
-**Pasos de proceso y aprobación de una Pull Request:**
-- La PR llega a los administradores
-  - Se analiza que los cambios estén en orden
-    - Cumplimiento con las hojas de estilo
-    - Cumplimiento con las licencias de terceros
-    - Comprobación de errores
-  - Se proponen (si se requiriese) cambios a la PR para poder ser aprobada
-    - Se inicia una conversación entre el colaborador y los administradores
-    - Otros colaboradores pueden proponer cambios u otras soluciones
-  - Se acuerda que la PR está lista para ser añadida al repositorio
-- La PR se añade al repositorio
+En la [wiki](https://github.com/DEIIT/Ingenieria-Informatica/wiki/C%C3%B3mo-usar-Git#trabajar-con-repositorios-ajenos) puedes encontrar un documento detallado que explica cómo editar archivos y cómo realizar una **pull request**, que es el protocolo con el que trabajamos para moderar y aceptar los cambios que se hacen a los archivos. Léetelo con tranquilidad y, si tienes alguna duda, pregunta usando las instrucciones del siguiente punto.
 
 ### Preguntar sobre los archivos o el repositorio
 
