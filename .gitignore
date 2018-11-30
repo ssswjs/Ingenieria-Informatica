@@ -1,0 +1,38 @@
+############################################################################################
+# GITIGNORE
+# ------------------------------------------------------------------------------------------
+# Este es el .gitignore global del repositorio. 
+# Aquí se especifican las extensiones de los archivos que NO se van a subir al repositorio
+# para evitar que tenga un tamaño excesivo.
+#
+# Debido a que en el grado se utilizan varios lenguajes, en este documento se agrupan las
+# extensiones por cada uno de ellos. Si ves que falta algo, siéntete libre de añadirlo.
+#
+# Para más info, consultar la Wiki: 
+# <pag wiki>
+############################################################################################
+
+## C/C++ ## 
+
+# Objetos
+*.o
+
+# Bibliotecas
+*.lib
+
+# Ejecutables
+*.exe
+*.out
+
+# ----------------------------------------------------------------------------------------
+## Java ##
+
+# Archivos de paquete
+*.jar
+
+# Logs
+*.log
+
+# Archivos de clase compilados
+*.class
+
